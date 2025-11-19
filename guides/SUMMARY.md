@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [AWFixer and Friends Guides](README.md)
