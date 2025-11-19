@@ -4,6 +4,7 @@
 
 ## Privacy and Security
 
+* [Introduction](privacy-and-security/introduction.md)
 * [AWFixer Platform Privacy](privacy-and-security/awfixer-platform-privacy.md)
 * [Community Platform Privacy](privacy-and-security/community-platform-privacy.md)
 * [AWFixer Platform Security](privacy-and-security/awfixer-platform-security.md)
