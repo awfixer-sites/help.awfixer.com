@@ -8,6 +8,18 @@
 * [Community Platform Privacy](privacy/community-platform-privacy/README.md)
   * [Discord](privacy/community-platform-privacy/discord.md)
 
+## AWFixerOS
+
+* [AWFixerOS Legal Overview](awfixeros/awfixeros-legal-overview.md)
+
+## AWBrowse
+
+* [AWBrowse Legal Overview](awbrowse/awbrowse-legal-overview.md)
+
+## Modded Android
+
+* [Modded Android Legal Overview](modded-android/modded-android-legal-overview.md)
+
 ## PhantomSystems
 
 * [Astro](phantomsystems/astro/README.md)
@@ -31,18 +43,6 @@
   * [Privacy](phantomsystems/astroai/privacy.md)
   * [Terms](phantomsystems/astroai/terms.md)
   * [Data Collections](phantomsystems/astroai/data-collections.md)
-
-## AWBrowse
-
-* [Page 1](awbrowse/page-1.md)
-
-## AWFixerOS
-
-* [Page 2](awfixeros/page-2.md)
-
-## Modded Android
-
-* [Page 3](modded-android/page-3.md)
 
 ***
 
