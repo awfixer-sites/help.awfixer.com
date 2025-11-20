@@ -22,17 +22,25 @@ layout:
 
 # AWFixer and Friends Careers
 
-<h2 align="center">AWFixer and Friends Help Center</h2>
+<h2 align="center">AWFixer and Friends Careers</h2>
 
 <h2 align="center">Do you want to work with the people who are building what comes next?</h2>
 
-<p align="center">Browse the topics below or join our community to ask anything you need help with.</p>
+<p align="center">Browse the Career Openings Below or join the Discord to ask more questions.</p>
 
 <p align="center"><a href="https://awfixer.com/" class="button primary">Check out AW&#x26;F</a> <a href="https://discord.awfixer.com/" class="button secondary">Contact support</a></p>
 
-<h2 align="center">Our Open Position</h2>
+<h2 align="center">Our Open Positions</h2>
 
-<h4 align="center">Things that you should know about working with us</h4>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Open Source Maintainer</td><td><a href=".gitbook/assets/9205550.gif">9205550.gif</a></td></tr><tr><td>Product Owner</td><td><a href=".gitbook/assets/vaporwave-car.gif">vaporwave-car.gif</a></td></tr><tr><td>Contributor Lead</td><td><a href=".gitbook/assets/111.jpg">111.jpg</a></td></tr><tr><td>Security Researcher</td><td><a href=".gitbook/assets/my-hacker-screen-i-actualy-hacked.gif">my-hacker-screen-i-actualy-hacked.gif</a></td></tr><tr><td>Community Moderation Staff</td><td><a href=".gitbook/assets/rules.png">rules.png</a></td></tr><tr><td>Community Engagement Managers</td><td><a href=".gitbook/assets/welcome.gif">welcome.gif</a></td></tr></tbody></table>
+
+<h4 align="center">There Are no Apply buttons?</h4>
+
+There are not any apply buttons because even though the help is needed, we do not accept applications the way that a traditional business does. We want to see you in our community, making contributions, producing engagement, and interacting with us. When you do that, and as we get to know you - that is how you apply for jobs with us.
+
+***
+
+<h4 align="center">Things that you should know about working with us:</h4>
 
 {% tabs %}
 {% tab title="The People Department" %}
