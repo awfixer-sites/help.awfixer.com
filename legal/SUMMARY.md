@@ -15,8 +15,8 @@
 
 ## AWFixer Licenses
 
-* [AWSource License](awfixer-licenses/awsource-license.md)
 * [License Overviews](awfixer-licenses/license-overviews.md)
+* [AWSource License](awfixer-licenses/awsource-license.md)
 
 ## AWFixerOS
 
