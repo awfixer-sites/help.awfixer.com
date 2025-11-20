@@ -1,4 +1,5 @@
 ---
+icon: linux
 cover: ../.gitbook/assets/modded-android.jpg
 coverY: 0
 ---
