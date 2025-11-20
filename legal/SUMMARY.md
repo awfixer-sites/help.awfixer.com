@@ -2,13 +2,16 @@
 
 * [Overview](README.md)
 
-## Privacy and Security
+## General Terms
 
-* [Introduction](privacy-and-security/introduction.md)
-* [Subprocessors](privacy-and-security/subprocessors.md)
-* [AWFixer Platform Privacy](privacy-and-security/awfixer-platform-privacy.md)
-* [Community Platform Privacy](privacy-and-security/community-platform-privacy.md)
-* [AWFixer Platform Security](privacy-and-security/awfixer-platform-security.md)
+* [Introduction](general-terms/introduction.md)
+* [Subprocessors](general-terms/subprocessors.md)
+* [Terms of Service](general-terms/terms-of-service.md)
+* [Privacy Policy](general-terms/privacy-policy/README.md)
+  * [Community Platform Privacy](general-terms/privacy-policy/community-platform-privacy.md)
+  * [AWFixer Platform Privacy](general-terms/privacy-policy/awfixer-platform-privacy.md)
+* [Security](general-terms/security/README.md)
+  * [AWFixer Platform Security](general-terms/security/awfixer-platform-security.md)
 
 ## AWFixer Licenses
 
