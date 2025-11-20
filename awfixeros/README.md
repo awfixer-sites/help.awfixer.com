@@ -43,7 +43,7 @@ Read guides, watch tutorials, and learn more about working with the developer pl
 {% endcolumn %}
 {% endcolumns %}
 
-<h2 align="center">Join a rapidly growing community or users and developers just like you.</h2>
+<h2 align="center">Join a rapidly growing community of users and developers just like you.</h2>
 
 <p align="center">Join our Discord community or create your first PR in just a few steps.</p>
 
