@@ -1,7 +1,12 @@
 ---
 description: Welcome to your team’s developer platform
+cover: .gitbook/assets/modded-android.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
