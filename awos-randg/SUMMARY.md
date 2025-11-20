@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Overview of the AWOS R\&G](README.md)
