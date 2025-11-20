@@ -56,6 +56,10 @@ we were founded by AWFixer and jinx, and we have goals that they envisioned in t
 
 .
 
+## The Friends
+
+our board of directors is the second part of our name. The Friends. There are currently 8 Friends, and 3 advisory friends that make up the board of directors. You can see most of them in our [Discord](https://discord.awfixer.com/).
+
 .
 
 ## Our Call To Action:
