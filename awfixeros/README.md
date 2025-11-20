@@ -27,37 +27,7 @@ metaLinks:
 
 <p align="center"><a href="https://discord.awfixer.com/" class="button primary" data-icon="discord">Discord</a> <a href="https://awfixeros.site/" class="button secondary">AWFixerOS Site</a></p>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image"></th></tr></thead><tbody><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about the hosted developer platform.</td><td><a href="https://app.gitbook.com/s/kcTrMMpz5VZ4tsGr5cwR/new-products/awfixer-cloud">AWFixer Cloud</a></td><td><a href="https://images.unsplash.com/photo-1667984390538-3dea7a3fe33d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjB0ZWNofGVufDB8fHx8MTc2MzYwNTI5OHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1667984390538-3dea7a3fe33d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjB0ZWNofGVufDB8fHx8MTc2MzYwNTI5OHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://dev.awfixer.com/awfixeros">https://dev.awfixer.com/awfixeros</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
-
-{% columns %}
-{% column %}
-### Get started in 5 minutes
-
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
-
-No guesswork, no complexity—just your first successful call, fast.
-
-<a href="https://template.gitbook.com/space-product-docs" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="terminal">API reference</a>
-{% endcolumn %}
-
-{% column %}
-{% code title="index.js" overflow="wrap" %}
-```javascript
-// Import the SDK
-import ExampleAPI from "example-api";
-
-// Initialize the client
-const client = new ExampleAPI({ apiKey: "YOUR_API_KEY" });
-
-// Send your first message
-const response = await client.messages.send({
-  message: "Hello, world!"
-});
-
-```
-{% endcode %}
-{% endcolumn %}
-{% endcolumns %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image"></th></tr></thead><tbody><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about the hosted developer platform.</td><td><a href="https://app.gitbook.com/s/kcTrMMpz5VZ4tsGr5cwR/new-products/awfixer-cloud">AWFixer Cloud</a></td><td><a href="https://images.unsplash.com/photo-1667984390538-3dea7a3fe33d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjB0ZWNofGVufDB8fHx8MTc2MzYwNTI5OHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1667984390538-3dea7a3fe33d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjB0ZWNofGVufDB8fHx8MTc2MzYwNTI5OHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://dev.awfixer.com/awfixeros">https://dev.awfixer.com/awfixeros</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f4e6">📦</span></td><td>The AWOS Packages</td><td>go check out and contribute to the AWOS Package Repo</td><td><a href="https://github.com/awfixer-os/pkgs">https://github.com/awfixer-os/pkgs</a></td><td><a href=".gitbook/assets/my-hacker-screen-i-actualy-hacked.gif">my-hacker-screen-i-actualy-hacked.gif</a></td></tr></tbody></table>
 
 {% columns %}
 {% column %}
