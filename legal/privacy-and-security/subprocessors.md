@@ -1,5 +1,6 @@
 ---
 description: subprocessors that help us make what we do possible
+icon: cloud
 ---
 
 # Subprocessors

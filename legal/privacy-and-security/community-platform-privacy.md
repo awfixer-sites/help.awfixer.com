@@ -2,6 +2,7 @@
 description: >-
   Our Community is hosted on Discord and we use several bots, this goes over our
   privacy policy in relation to these facts
+icon: layer-plus
 ---
 
 # Community Platform Privacy

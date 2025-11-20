@@ -1,5 +1,6 @@
 ---
 description: what is the point of our legal policies?
+icon: scale-balanced
 ---
 
 # Introduction
