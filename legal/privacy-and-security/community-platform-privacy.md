@@ -3,6 +3,9 @@ description: >-
   Our Community is hosted on Discord and we use several bots, this goes over our
   privacy policy in relation to these facts
 icon: layer-plus
+cover: >-
+  https://images.unsplash.com/photo-1679057001914-59ab4131dfff?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxkaXNjb3JkfGVufDB8fHx8MTc2MzU5MDMxMXww&ixlib=rb-4.1.0&q=85
+coverY: 0
 ---
 
 # Community Platform Privacy

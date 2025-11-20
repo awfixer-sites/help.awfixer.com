@@ -1,6 +1,8 @@
 ---
 description: what is the point of our legal policies?
 icon: scale-balanced
+cover: ../.gitbook/assets/welcome.gif
+coverY: 0
 ---
 
 # Introduction
