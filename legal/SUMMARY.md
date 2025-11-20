@@ -5,6 +5,7 @@
 ## Privacy and Security
 
 * [Introduction](privacy-and-security/introduction.md)
+* [Subprocessors](privacy-and-security/subprocessors.md)
 * [AWFixer Platform Privacy](privacy-and-security/awfixer-platform-privacy.md)
 * [Community Platform Privacy](privacy-and-security/community-platform-privacy.md)
 * [AWFixer Platform Security](privacy-and-security/awfixer-platform-security.md)
@@ -68,7 +69,3 @@
   * [Privacy](phantomsystems/astroai/privacy.md)
   * [Terms](phantomsystems/astroai/terms.md)
   * [Data Collections](phantomsystems/astroai/data-collections.md)
-
-***
-
-* [Subprocessors](subprocessors.md)
