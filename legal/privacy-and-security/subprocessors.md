@@ -16,3 +16,40 @@ this site, the AWHelp Center is hosted via GitBook, so you should read their leg
 * [subprocessors](https://gitbook.com/docs/policies/privacy-and-security/security/subprocessors)
 * [terms](https://gitbook.com/docs/policies/terms)
 * [security](https://gitbook.com/docs/policies/privacy-and-security/security)
+
+
+
+#### dev.awfixer.com is hosted via mintlify
+
+the developer documentation is hosted via mintlify, so you should read their legal docs:
+
+* [Privacy](https://www.mintlify.com/legal/privacy)
+* subprocessors (not stated)
+* [terms](https://www.mintlify.com/legal/terms)
+* security (not stated)
+
+
+
+#### Discord bots we use
+
+* Wick
+  * [Privacy](https://wickbot.com/legal/privacy)
+  * [TOS](https://wickbot.com/legal/tos)
+* bleed
+  * [Privacy](https://bleed.bot/privacy)
+  * [TOS](https://bleed.bot/terms)
+* statbot
+* mee6
+* hashbot security suite
+* sapphire
+* tempobot
+* botghost
+* ticketbot v2
+* ticketon
+* ticket tool
+* supportmail
+* dank memer
+* virtual fisher
+* virtual farmer
+* firebot
+* yagpdb
