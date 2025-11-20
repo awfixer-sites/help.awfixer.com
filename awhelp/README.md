@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/welcome.gif
 coverY: 0
 layout:
   width: wide
