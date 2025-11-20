@@ -39,7 +39,7 @@ metaLinks:
 
 Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
 
-<a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/A9QLsapZuOg9EKZBnq8E/" class="button primary" data-icon="book-open">Guides</a> <a href="https://dev.awfixer.com/awfixeros" class="button secondary" data-icon="book">Documentation</a>
+<a href="https://app.gitbook.com/s/A9QLsapZuOg9EKZBnq8E/awfixeros" class="button primary" data-icon="book-open">Guides</a> <a href="https://dev.awfixer.com/awfixeros" class="button secondary" data-icon="book">Documentation</a>
 {% endcolumn %}
 {% endcolumns %}
 
