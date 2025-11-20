@@ -28,7 +28,9 @@ layout:
 <h1 align="center"> AWFixer and Friends Careers </h1>
 ```
 
-\<h1 align="center"> AWFixer and Friends Careers \</h1>
+\<h2 align="center"> AWFixer and Friends Careers \</h2>
+
+
 
 ### Do you want to work with the people who are building what comes next?
 
