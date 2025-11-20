@@ -23,6 +23,7 @@
 * [Data Collections](awfixeros/data-collections.md)
 * [Security](awfixeros/security.md)
 * [Licensing](awfixeros/licensing.md)
+* [Contributor License Agreement](awfixeros/contributor-license-agreement.md)
 
 ## AWBrowse
 
