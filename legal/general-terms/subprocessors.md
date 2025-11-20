@@ -32,6 +32,8 @@ the developer documentation is hosted via mintlify, so you should read their leg
 
 #### Discord bots we use
 
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Wick Bot</td><td><a href="https://wickbot.com/legal/privacy">https://wickbot.com/legal/privacy</a></td><td><a href="https://wickbot.com/legal/tos">https://wickbot.com/legal/tos</a></td><td><a href="https://wickbot.com/">https://wickbot.com/</a></td><td><a href="../.gitbook/assets/660789936445849610.png">660789936445849610.png</a></td></tr><tr><td>Bleed</td><td><a href="https://bleed.bot/privacy">https://bleed.bot/privacy</a></td><td><a href="https://bleed.bot/terms">https://bleed.bot/terms</a></td><td><a href="https://bleed.bot/">https://bleed.bot/</a></td><td><a href="../.gitbook/assets/bleed.png">bleed.png</a></td></tr></tbody></table>
+
 * Wick
   * [Privacy](https://wickbot.com/legal/privacy)
   * [TOS](https://wickbot.com/legal/tos)
