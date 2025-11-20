@@ -50,13 +50,31 @@ We do not feel like a Human Resources Department (HR) is something that we want,
 {% endtab %}
 
 {% tab title="The Leadership " %}
+## Our Founders:
 
+we were founded by AWFixer and jinx, and we have goals that they envisioned in the beginning and will continue to be a core part of our mission.
+
+.
+
+.
+
+## Our Call To Action:
+
+"This Project is necessary since toxic elements within OSS projects, moles from BigTech, are boycotting any substantial work, in order to destroy the "projects", to eliminate competition of their own products. Classic "embrace, extend, extinguish" tactics.
+
+This is an independent project, not at all affiliated with BigTech or any of their subsidiaries or tax evasion tools, nor any political activists groups, state actors, etc. It's explicitly free of any "DEI" or similar discriminatory policies. Anybody who's treating others nicely is welcomed.
+
+It doesn't matter which country you're coming from, your political views, your race, your sex, your age, your food menu, whether you wear boots or heels, whether you're furry or fairy, Conan or McKay, comic character, a small furry creature from Alpha Centauri, or just a boring average person. Anybody who's interested in bringing AWFixers Stuff forward is welcome.
+
+Together we'll make FOSS great again!"
 {% endtab %}
 
 {% tab title="The Deep Community Focus and Care" %}
 
 {% endtab %}
 {% endtabs %}
+
+
 
 <h2 align="center"></h2>
 
