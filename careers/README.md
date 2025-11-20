@@ -22,6 +22,14 @@ layout:
 
 # AWFixer and Friends Careers
 
-AWFixer and Friends Careers
+
+
+```
+<h1 align="center"> AWFixer and Friends Careers </h1>
+```
 
 ### Do you want to work with the people who are building what comes next?
+
+
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
