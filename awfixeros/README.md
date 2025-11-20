@@ -23,7 +23,7 @@ metaLinks:
 
 <h2 align="center">AWFixerOS Info Center</h2>
 
-<p align="center">Welcome to your team’s new developer platform</p>
+<p align="center">Find Answers for all your AWFixerOS related questions</p>
 
 <p align="center"><a href="https://discord.awfixer.com/" class="button primary" data-icon="discord">Discord</a> <a href="https://awfixeros.site/" class="button secondary">AWFixerOS Site</a></p>
 
