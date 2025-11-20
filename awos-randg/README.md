@@ -1,10 +1,32 @@
 ---
 description: this is where you will find the roadmap and goals we have for AWFixerOS
+layout:
+  width: wide
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Overview of the AWOS R\&G
 
+<h2 align="center">AWFixerOS Roadmap and Goals</h2>
 
+<h2 align="center">Use this section to easily navigate straight to the part of the roadmap and goals you want to know about</h2>
+
+<p align="center">We are currently in Q4 2025.</p>
+
+<p align="center"><a href="2026/quarter-one/" class="button primary" data-icon="calendar-check">Check out Q1 2026</a> <a href="https://discord.awfixer.com/" class="button secondary" data-icon="discord">Join the Community</a></p>
+
+<h2 align="center">The Roadmap and Goals:</h2>
 
 
 
