@@ -13,3 +13,7 @@
 ## Modded Android
 
 * [Intro to Modded Android](modded-android/intro-to-modded-android.md)
+
+## Software Download Guides
+
+* [Page 1](software-download-guides/page-1.md)
