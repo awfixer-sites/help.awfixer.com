@@ -1,0 +1,6 @@
+---
+icon: linux
+---
+
+# Installing AWFixerOS
+
