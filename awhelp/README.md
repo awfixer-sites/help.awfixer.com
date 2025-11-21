@@ -39,7 +39,7 @@ metaLinks:
 
 <h2 align="center">What is AWFixer and Friends?</h2>
 
-<p align="center">That is a good question. AWFixer and Friends is a company founded by AWFixer, jinx and the friends.</p>
+<p align="center">That is a good question. AWFixer and Friends is a company founded by AWFixer, jinx and the friends. with a founding goal of making the world a better place. We do not have a goal of making money, and the people who use our product will always matter more to us then our bottom line. We are a company that makes things that matter for people who matter and is run by friends who care.</p>
 
 ***
 
