@@ -4,7 +4,13 @@ description: an overview of the legal terms for AWFixer and Friends
 
 # Overview
 
-## Welcome to the Legal Section of the AWFixer and Friends Help center.
+<h2 align="center">AWFixer and Friends Legal</h2>
+
+<h2 align="center">Welcome to the Legal Section of the AWFixer and Friends Help center.</h2>
+
+<p align="center">Browse the topics below or join our community to ask anything you need help with.</p>
+
+<p align="center"><a href="https://awfixer.com/" class="button primary">Check out AW&#x26;F</a> <a href="https://discord.awfixer.com/" class="button secondary">Contact support</a></p>
 
 if you clicked here because you like reading policies rather than just accepting them, then we love you! This section may seem a bit large and hard to navigate, and we get that so we are here to help provide you with some guidance!
 
