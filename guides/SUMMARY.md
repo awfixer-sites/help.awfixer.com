@@ -21,3 +21,7 @@
 ## Software Download Guides
 
 * [Page 1](software-download-guides/page-1.md)
+
+## Misc Guides
+
+* [Contributing to the Help Center](misc-guides/contributing-to-the-help-center.md)
