@@ -10,6 +10,7 @@
 * [Privacy Policy](general-terms/privacy-policy/README.md)
   * [Community Platform Privacy](general-terms/privacy-policy/community-platform-privacy.md)
   * [AWFixer Platform Privacy](general-terms/privacy-policy/awfixer-platform-privacy.md)
+  * [Help Center Privacy Policy](general-terms/privacy-policy/help-center-privacy-policy.md)
 * [Security](general-terms/security/README.md)
   * [AWFixer Platform Security](general-terms/security/awfixer-platform-security.md)
 
