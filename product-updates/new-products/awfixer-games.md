@@ -63,6 +63,16 @@ we will be a very hands off publisher. While you are retaining us with the intia
 
 </details>
 
+<details>
+
+<summary>How will AWFixer Games help with preventing game destruction?</summary>
+
+we have a bit of a plan for that. Our biggest idea has to do with a part of the contract that developers will sign with us when they use our services. This idea is still being debated under the ideas of Open Source and IP retention laws so we will publish more updates when we have navigated the research and officially drafted the developers service contract.
+
+</details>
+
+
+
 
 
 {% if visitor.claims.unsigned.hasVisited %}
