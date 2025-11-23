@@ -8,6 +8,7 @@
 * [AWDocs Engine](new-products/awdocs-engine.md)
 * [📢 Astrobot (WIP)](new-products/astrobot-wip.md)
 * [AWFixer Cloud](new-products/awfixer-cloud.md)
+* [AWFixer Games](new-products/awfixer-games.md)
 
 ## AWFixerOS
 
