@@ -19,3 +19,7 @@
   * [Nerds Run](the-friends/advisory-friends/nerds-run.md)
 * [Partners](the-friends/partners/README.md)
   * [FOSS Torrents](the-friends/partners/foss-torrents.md)
+
+## Letters
+
+* [Company Leadership Letters](letters/company-leadership-letters.md)
