@@ -9,6 +9,7 @@
 * [📢 Astrobot (WIP)](new-products/astrobot-wip.md)
 * [AWFixer Cloud](new-products/awfixer-cloud.md)
 * [AWFixer Games](new-products/awfixer-games.md)
+* [AWFixerAI](new-products/awfixerai.md)
 
 ## AWFixerOS
 
