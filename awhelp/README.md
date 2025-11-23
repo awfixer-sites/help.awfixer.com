@@ -23,7 +23,7 @@ metaLinks:
     - https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/
 ---
 
-# Untitled
+# Home
 
 <h2 align="center">AWFixer and Friends Help Center</h2>
 
@@ -33,13 +33,69 @@ metaLinks:
 
 <p align="center"><a href="https://awfixer.com/" class="button primary">Check out AW&#x26;F</a> <a href="https://discord.awfixer.com/" class="button secondary">Contact support</a></p>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">Check out our guides!</td><td>guides on how to do things related to AWFixer and Friends, our community and our products.</td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/A9QLsapZuOg9EKZBnq8E/">Guides</a></td><td><a href=".gitbook/assets/welcome.gif">welcome.gif</a></td></tr><tr><td align="center">Join our Community!</td><td>We are working on a thriving community of people who are passionate about our products, our goals, and making the world a better place.</td><td><a href="https://discord.awfixer.com/">https://discord.awfixer.com/</a></td><td><a href="https://images.unsplash.com/photo-1683029096295-7680306aa37d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkaXNjb3JkfGVufDB8fHx8MTc2MzU5MDMxMXww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1683029096295-7680306aa37d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkaXNjb3JkfGVufDB8fHx8MTc2MzU5MDMxMXww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">Product Updates and related changelogs</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/kcTrMMpz5VZ4tsGr5cwR/">Product Updates</a></td><td><a href="https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjaGFuZ2V8ZW58MHx8fHwxNzYzNTkwMzM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjaGFuZ2V8ZW58MHx8fHwxNzYzNTkwMzM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">AWBrowse</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/YqhAVz1vsKL9mVGK6VOW/">awbrowse</a></td><td><a href=".gitbook/assets/vaporwave-car.gif">vaporwave-car.gif</a></td></tr><tr><td align="center">AWFixer Legal</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/k2tBBUnzYNYLkQXSprCH/">Legal</a></td><td><a href="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxsZWdhbHxlbnwwfHx8fDE3NjM1OTYwNTJ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxsZWdhbHxlbnwwfHx8fDE3NjM1OTYwNTJ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">AWFixerOS</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/3eolgzXI6rzTTs1VqRIW/">awfixeros</a></td><td><a href=".gitbook/assets/9205550.gif">9205550.gif</a></td></tr><tr><td align="center">Developer Section</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/udmTwgaxV8Cg3OXaBLLg/">Developer</a></td><td><a href=".gitbook/assets/my-hacker-screen-i-actualy-hacked.gif">my-hacker-screen-i-actualy-hacked.gif</a></td></tr><tr><td align="center">Careers</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/UCovKinycR43h8TbgfLq/">Careers</a></td><td><a href=".gitbook/assets/344020.jpg">344020.jpg</a></td></tr><tr><td align="center">Governance</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/ezD4bt17IBw1GLlLgoUw/">Governance</a></td><td><a href=".gitbook/assets/111.jpg">111.jpg</a></td></tr><tr><td align="center">Modded Android</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/UZhAkIwlDRxLAfZ9rEv3/">Modded-Android</a></td><td><a href=".gitbook/assets/modded-android.jpg">modded-android.jpg</a></td></tr><tr><td align="center">OSS Guides</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/VxNN6RQ1EphhzQKDdTlP/">OSS Guides</a></td><td><a href="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2RlfGVufDB8fHx8MTc2MzYxMTk2NHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2RlfGVufDB8fHx8MTc2MzYxMTk2NHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">Financials</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/0snZ95CcPgLGrA2POZtp/">Financials</a></td><td><a href="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxtb25leXxlbnwwfHx8fDE3NjM1NTYyMjR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxtb25leXxlbnwwfHx8fDE3NjM1NTYyMjR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">Check out our guides!</td><td>guides on how to do things related to AWFixer and Friends, our community and our products.</td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/A9QLsapZuOg9EKZBnq8E/">Guides</a></td><td><a href=".gitbook/assets/welcome.gif">welcome.gif</a></td></tr><tr><td align="center">Join our Community!</td><td>We are working on a thriving community of people who are passionate about our products, our goals, and making the world a better place.</td><td><a href="https://discord.awfixer.com/">https://discord.awfixer.com/</a></td><td><a href="https://images.unsplash.com/photo-1683029096295-7680306aa37d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkaXNjb3JkfGVufDB8fHx8MTc2MzU5MDMxMXww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1683029096295-7680306aa37d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkaXNjb3JkfGVufDB8fHx8MTc2MzU5MDMxMXww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">Product Updates and related changelogs</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/kcTrMMpz5VZ4tsGr5cwR/">Product Updates</a></td><td><a href="https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjaGFuZ2V8ZW58MHx8fHwxNzYzNTkwMzM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjaGFuZ2V8ZW58MHx8fHwxNzYzNTkwMzM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">AWBrowse</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/YqhAVz1vsKL9mVGK6VOW/">AWBrowse</a></td><td><a href=".gitbook/assets/vaporwave-car.gif">vaporwave-car.gif</a></td></tr><tr><td align="center">AWFixer Legal</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/k2tBBUnzYNYLkQXSprCH/">Legal</a></td><td><a href="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxsZWdhbHxlbnwwfHx8fDE3NjM1OTYwNTJ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxsZWdhbHxlbnwwfHx8fDE3NjM1OTYwNTJ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">AWFixerOS</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/3eolgzXI6rzTTs1VqRIW/">awfixeros</a></td><td><a href=".gitbook/assets/9205550.gif">9205550.gif</a></td></tr><tr><td align="center">Developer Section</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/udmTwgaxV8Cg3OXaBLLg/">Developer</a></td><td><a href=".gitbook/assets/my-hacker-screen-i-actualy-hacked.gif">my-hacker-screen-i-actualy-hacked.gif</a></td></tr><tr><td align="center">Careers</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/UCovKinycR43h8TbgfLq/">Careers</a></td><td><a href=".gitbook/assets/344020.jpg">344020.jpg</a></td></tr><tr><td align="center">Governance</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/ezD4bt17IBw1GLlLgoUw/">Governance</a></td><td><a href=".gitbook/assets/111.jpg">111.jpg</a></td></tr><tr><td align="center">Modded Android</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/UZhAkIwlDRxLAfZ9rEv3/">Modded-Android</a></td><td><a href=".gitbook/assets/modded-android.jpg">modded-android.jpg</a></td></tr><tr><td align="center">OSS Guides</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/VxNN6RQ1EphhzQKDdTlP/">OSS Guides</a></td><td><a href="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2RlfGVufDB8fHx8MTc2MzYxMTk2NHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1518773553398-650c184e0bb3?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb2RlfGVufDB8fHx8MTc2MzYxMTk2NHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td align="center">Financials</td><td></td><td><a href="https://app.gitbook.com/o/YNJZ3eCuHI0ruy8X8ZWU/s/0snZ95CcPgLGrA2POZtp/">Financials</a></td><td><a href="https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxtb25leXxlbnwwfHx8fDE3NjM1NTYyMjR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxtb25leXxlbnwwfHx8fDE3NjM1NTYyMjR8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ***
 
 <h2 align="center">What is AWFixer and Friends?</h2>
 
 <p align="center">That is a good question. AWFixer and Friends is a company founded by AWFixer, jinx and the friends. with a founding goal of making the world a better place. We do not have a goal of making money, and the people who use our product will always matter more to us then our bottom line. We are a company that makes things that matter for people who matter and is run by friends who care.</p>
+
+<h2 align="center">AW&#x26;Friends FAQ</h2>
+
+<details>
+
+<summary>What is AWFixer and Friends?</summary>
+
+AWFixer and Friends is a company founded by AWFixer and jinx, lead by the Friends and has a mission of changing the world via friendship and open source software.
+
+</details>
+
+<details>
+
+<summary>Who founded AWFixer and Friends?</summary>
+
+AWFixer and Friends was founded by AWFixer, and recently we have brought jinx on as a co-owner. Together they hope to drive the mission of a free and open world forward, one friendship at a time.
+
+</details>
+
+<details>
+
+<summary>will AWFixer and Friends make any money?</summary>
+
+in the words of the [FUTO FAQ](https://futo.org/about/futo-faq/) "we certianly hope so."
+
+</details>
+
+<details>
+
+<summary>What is the mission behind AWFixer and Friends?</summary>
+
+we have provided a detailed mission page [here](https://help.awfixer.com/governance/important-documents/mission-statement).&#x20;
+
+</details>
+
+<details>
+
+<summary>is AWFixer and Friends a non-profit</summary>
+
+no. We are structured as a traditional C-Corp with the related financial structures and reporting systems. We are technically a Public Benefit Corporation and we will be aiming to get certified as a B Corp in the next year or two.
+
+</details>
+
+<details>
+
+<summary>Where does AWFixer and Friends operate out of?</summary>
+
+currently AWFixer and Friends, and its respective holding companies AWFixer Holdings LLC, and AJ Services LLC are registared companies in the state of Deleware. This is because the corporate law in Deleware gives us the freedom to pursue our mission with little to no issues.. Though we will be doing business in other strategic areas because some current laws that are being worked on will do significant harm to our ability to help those we want to help.
+
+</details>
+
+
+
+
+
+
 
 ***
 
