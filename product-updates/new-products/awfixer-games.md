@@ -17,7 +17,9 @@ AWFixer Games has been voted on internally and we will be moving forward with th
 
 AWFixer Games is a For Profit DBA that we are working on to publish games, specifically focusing on small developers, open source games, and games that are built to work on platforms like AWFixerOS, Linux, and the Steam Hardware.
 
-
+{% hint style="info" %}
+This page is currently being written, check back later for more information!
+{% endhint %}
 
 ## FAQ
 
@@ -53,9 +55,17 @@ no. We will not own the IP that you publish via our services, and we will never 
 
 </details>
 
+<details>
+
+<summary>What sets AWFixer Games apart from other publishers?</summary>
+
+we will be a very hands off publisher. While you are retaining us with the intial fee and the 3% of sales, we do not take any other vested interest in your games. This allows us to protect you, remember you, and have no desire to change your games. Allowing you the creative freedom without the business risk.
+
+</details>
 
 
 
-
-
+{% if visitor.claims.unsigned.hasVisited %}
+hey, we noticed that we have seem you before! thank you for hanging out with us and don't be afraid to join up with us in the [Discord](https://discord.awfixer.com/), we would love to have you!
+{% endif %}
 
