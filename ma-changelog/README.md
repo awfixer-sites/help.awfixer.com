@@ -19,7 +19,11 @@ layout:
 
 # Changelog
 
-## July 2025
+{% hint style="warning" %}
+There have not been any official releases of Modded Android at this time, this space serves as a placeholder to help us get translations configured and ensure they are working
+{% endhint %}
+
+July 2025
 
 See what’s new and improved in our July update.
 
