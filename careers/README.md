@@ -2,10 +2,10 @@
 cover: .gitbook/assets/9205550.gif
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: false
   description:
@@ -13,9 +13,9 @@ layout:
   tableOfContents:
     visible: false
   outline:
-    visible: false
-  pagination:
     visible: true
+  pagination:
+    visible: false
   metadata:
     visible: true
 ---
