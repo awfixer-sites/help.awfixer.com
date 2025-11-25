@@ -22,3 +22,7 @@
 ## Modded Android
 
 * [Pre-Release Notes](modded-android/pre-release-notes.md)
+
+## Internal Product
+
+* [Dashboard](internal-product/dashboard.md)
