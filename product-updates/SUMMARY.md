@@ -14,6 +14,7 @@
 ## AWFixerOS
 
 * [Pre-Release Notes](awfixeros/pre-release-notes.md)
+* [Security Features](awfixeros/security-features.md)
 
 ## AWBrowse
 
